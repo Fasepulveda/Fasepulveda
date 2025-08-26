@@ -4,8 +4,8 @@
 🔹 Passionate about AI, Machine Learning, Cybersecurity, and Innovation
 
 🔹 Experienced in Python, Java, SQL, Linux, Angular, and Data Science tools
-----------------------------------------------------------------------------
 
+----------------------------------------------------------------------------
 Currently working on:
 
 🧠 Deep Learning research on computer vision and automated driving systems
@@ -22,8 +22,8 @@ Frameworks: TensorFlow, PyTorch, Angular, Dataiku
 Databases: Neo4j, Hadoop, MySQL
 
 Other: Linux, Git, Docker, Cloud Services
-----------------------------------------------------------------------------
 
+----------------------------------------------------------------------------
 📚 Background:
 
 🎓 Studying Computer Science Masters at UTEP with focus on AI, Cybersecurity, and Data Science
@@ -31,8 +31,8 @@ Other: Linux, Git, Docker, Cloud Services
 💼 Industry experience at Honeywell (National Security Campus), Oracle, and research labs
 
 🔍 Research interests: automated vehicles, cybersecurity, and AI-driven systems
-----------------------------------------------------------------------------
 
+----------------------------------------------------------------------------
 📫 Let’s Connect:
 
 [LinkedIn](https://www.linkedin.com/in/fernando-sepulveda-utep/)
