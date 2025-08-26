@@ -4,6 +4,7 @@
 🔹 Passionate about AI, Machine Learning, Cybersecurity, and Innovation
 
 🔹 Experienced in Python, Java, SQL, Linux, Angular, and Data Science tools
+----------------------------------------------------------------------------
 
 Currently working on:
 
@@ -11,7 +12,7 @@ Currently working on:
 
 🛠 [POST 3d Prints](https://github.com/Fasepulveda/POST3dPrints) – an online 3D printing marketplace for creators & hobbyists
 
-
+----------------------------------------------------------------------------
 🛠 Tech & Tools: 
 
 Languages: Python, Java, SQL, Dart
@@ -21,6 +22,7 @@ Frameworks: TensorFlow, PyTorch, Angular, Dataiku
 Databases: Neo4j, Hadoop, MySQL
 
 Other: Linux, Git, Docker, Cloud Services
+----------------------------------------------------------------------------
 
 📚 Background:
 
@@ -29,7 +31,7 @@ Other: Linux, Git, Docker, Cloud Services
 💼 Industry experience at Honeywell (National Security Campus), Oracle, and research labs
 
 🔍 Research interests: automated vehicles, cybersecurity, and AI-driven systems
-
+----------------------------------------------------------------------------
 
 📫 Let’s Connect:
 
