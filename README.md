@@ -1,12 +1,14 @@
 👋 Hi, I’m Fernando Sepulveda
 
+
 🔹 Passionate about AI, Machine Learning, Cybersecurity, and Innovation
+
 🔹 Experienced in Python, Java, SQL, Linux, Angular, and Data Science tools
 
 Currently working on:
 🧠 Deep Learning research on computer vision and automated driving systems
 🛠 POST 3d Prints – an online 3D printing marketplace for creators & hobbyists
-🚀 INFILTR8 – AI-powered tool to streamline penetration testing for the DoD
+
 
 🛠 Tech & Tools: 
 Languages: Python, Java, SQL, Dart
@@ -21,7 +23,9 @@ Other: Linux, Git, Docker, Cloud Services
 
 
 📫 Let’s Connect:
+
 LinkedIn : https://www.linkedin.com/in/fernando-sepulveda-utep/
+
 Website/Portfolio : https://sites.google.com/view/sepulveda-portofolio/home?authuser=0
 
 <!--
