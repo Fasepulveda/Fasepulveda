@@ -37,7 +37,7 @@ Other: Linux, Git, Docker, Cloud Services
 
 [LinkedIn](https://www.linkedin.com/in/fernando-sepulveda-utep/)
 
-[Website/Portfolio]([https://sites.google.com/view/sepulveda-portofolio/home?authuser=0](https://fernandosepulveda.me/))
+[Website/Portfolio](https://fernandosepulveda.me/)
 
 <!--
 **Fasepulveda/Fasepulveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
